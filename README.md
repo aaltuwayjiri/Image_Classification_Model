@@ -6,7 +6,7 @@ This repository includes:
 - A pre-trained Keras model (`keras_Model.h5`)
 - A Python script (`predict_image.py`) to load the model and run predictions
 - A text file (`labels.txt`) that containing the classes
-- A screenshot of the outputs (`task1_output`)
+- A screenshot of the outputs (`task1_output.png`)
 
 # Requirements
 
